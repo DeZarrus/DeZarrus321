@@ -1,13 +1,13 @@
 # DeZarrus321
-Definition Of Personal Expression
+*Definition Of Personal Expression*
 
-This site is about embarcing and showcasing your art and expressing eho you are as a person.
+Alt-H2 This site is about embarcing and showcasing your art and expressing eho you are as a person.
 
-I enjoy learinig about a different platform on building a website.
+1.I enjoy creating graphic designs
 
-Learning about coding is very interesting
+2.I love be able to relate to people through my art
 
-I hope to use what I learned build a business that not only myself but the people who support me can be proud of
+3.I enjoy having the prospect of building *generational wealth* through my buisness
 
 ![Picture Of Brand](IMG_1473.png)
 
