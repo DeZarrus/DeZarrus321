@@ -1,7 +1,7 @@
 # DeZarrus321
 *Definition Of Personal Expression*
 
-# This site is about embarcing and showcasing your art and expressing eho you are as a person.
+# This site is about embarcing and showcasing your art and expressing who you are as a person.
 
 1.I enjoy creating graphic designs
 
