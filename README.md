@@ -1,7 +1,7 @@
 # DeZarrus321
 *Definition Of Personal Expression*
 
-Alt-H2 This site is about embarcing and showcasing your art and expressing eho you are as a person.
+#H1 This site is about embarcing and showcasing your art and expressing eho you are as a person.
 
 1.I enjoy creating graphic designs
 
