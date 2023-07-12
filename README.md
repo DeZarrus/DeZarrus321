@@ -9,6 +9,6 @@ Learning about coding is very interesting
 
 I hope to use what I learned build a business that not only myself but the people who support me can be proud of
 
-![IMG_1473.png](GITHUB.jpeg)
+![Picture Of Brand](IMG_1473.png)
 
 brand current website (www.mydopexpression.com)
